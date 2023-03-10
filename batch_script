@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --output=log.headjob
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=8G
+#SBATCH --job-name=headjob
+#SBATCH --partition=main #edit partition!
+#SBATCH --exclude=irmo,nessa,gpu-v100-1,gpu-v100-2,gpu-v100-3,gpu-v100-4,gpu-a100-1,gpu-a100-2,gpu-a100-3,gpu-a100-4,gpu-a100-5,helmsdeep,isengard,vana,ulmo,tulkas,alatar,radagast,melko,cpu0,cpu-rect-1,cpu-rect-2,cpu-rect-3 # edit Nodelist!
+
+date;hostname;pwd
+
+rm -r data/sample.*
+source /mnt/work/python/mconda/39/bin/activate # edit Path!
+
+conda activate /mnt/work/python/jdecke/home_env # edit Path!
+which python 
+
+srun python main.py 
