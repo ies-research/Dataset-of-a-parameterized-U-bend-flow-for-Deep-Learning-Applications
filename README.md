@@ -12,7 +12,7 @@ Please use the issue tracker or contact me directly if you need support: jens.de
 Jens Decke, Olaf Wünsch, Bernhard Sick
 
 ## Acknowledgment
-I would like to express my sincere gratitude to Stephan Göke for his unwavering support, meaningful discussions, and valuable suggestions throughout the project. His exceptional collaboration and willingness to share ideas have been instrumental in shaping this research.\
+I would like to express my sincere gratitude to Stephan Goeke for his unwavering support, meaningful discussions, and valuable suggestions throughout the project. His exceptional collaboration and willingness to share ideas have been instrumental in shaping this research.\
 \
 Special thanks are expressed to the server team of the Intelligent Embedded Systems department, in particular to Dr. Christian Gruhl and David Meier, who customized some features on the compute cluster for the purpose of creating this dataset.\
 This research has been funded by the Federal Ministry for Economic Affairs and Climate Action (BMWK) within the project "KI-basierte Topologieoptimierung elektrischer Maschinen (KITE)" (19I21034C). 
