@@ -21,3 +21,6 @@ This research has been funded by the Federal Ministry for Economic Affairs and C
 ## License
 Creative Commons Attribution-NonCommercial 4.0
 
+## Reference
+
+[![DOI](https://zenodo.org/badge/612247257.svg)](https://zenodo.org/badge/latestdoi/612247257)
