@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  ies-research/Dataset-of-a-parameterized-U-bend-flow-for-Deep-Learning-Applications:
+  v1.0
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jens
+    family-names: Decke
+    email: jens.decke@uni-kassel.de
+    affiliation: 'University of Kassel, Intelligent Embedded Systems'
+    orcid: 'https://orcid.org/0000-0002-7893-1564'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7717020
+repository-code: >-
+  https://github.com/ies-research/Dataset-of-a-parameterized-U-bend-flow-for-Deep-Learning-Applications
+license: CC-BY-NC-4.0
+version: Submission_stage
+date-released: '2023-03-10'
